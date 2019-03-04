@@ -1,0 +1,31 @@
+{
+    "telemetry.machineId": "6edb46b697ef771ed086b29b2b2f428238d8557e00e6a59ad78caba6e7375c28",
+    "openedPathsList": {
+        "workspaces2": [
+            "file:///var/www/html/pbkk-gun"
+        ],
+        "files2": []
+    },
+    "theme": "vs-dark",
+    "themeBackground": "#26292c",
+    "windowsState": {
+        "openedWindows": [],
+        "lastActiveWindow": {
+            "folderUri": {
+                "$mid": 1,
+                "fsPath": "/var/www/html/pbkk-gun",
+                "external": "file:///var/www/html/pbkk-gun",
+                "path": "/var/www/html/pbkk-gun",
+                "scheme": "file"
+            },
+            "backupPath": "/var/www/html/pbkk-gun/~/.vscode-root/Backups/caefa141d8788d4e420d2a738e579e47",
+            "uiState": {
+                "mode": 0,
+                "x": 0,
+                "y": 27,
+                "width": 1366,
+                "height": 741
+            }
+        }
+    }
+}
