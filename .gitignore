@@ -1,14 +1,2 @@
-node_modules
-npm-debug.log
-yarn.lock
-*data.json
-*data*
-*.db
-.idea/
-*.bak
-*.new
-*.DS_store
-.esm-cache
-.sessionStorage
-.localStorage
-./~/
+node_modules/
+**/putanginamo*
